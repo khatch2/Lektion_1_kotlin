@@ -1,7 +1,7 @@
 package com.example.Lektion_1_kotkin
 
-class main(args: Array<String>) {
+class main() {
   println()
-  println(" args.contentToString() $args.contentToString() ")
+  println(" args.contentToString()  ")
   println()
 }
